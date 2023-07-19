@@ -1,0 +1,970 @@
+
+2023-04-17 00:01:43...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:01:55...Begin System Check Process *************
+2023-04-17 00:01:55...XML Parsing Support Found
+2023-04-17 00:01:55...JSON Parsing Support Found
+2023-04-17 00:01:55...MBString Support Found
+2023-04-17 00:01:55...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:01:55.../custom directory and subdirectory check passed
+2023-04-17 00:01:55...cache directory and subdirectory check passed
+2023-04-17 00:01:57.../module  directory and subdirectory check passed
+2023-04-17 00:01:57.../upload directory check passed
+2023-04-17 00:01:57...ERROR: Zip support not found.
+2023-04-17 00:01:57...PCRE version check passed
+2023-04-17 00:01:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:01:57...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:01:57...Outputting HTML for System check
+2023-04-17 00:01:57...Errors were found *************
+2023-04-17 00:03:18...Begin System Check Process *************
+2023-04-17 00:03:18...XML Parsing Support Found
+2023-04-17 00:03:18...JSON Parsing Support Found
+2023-04-17 00:03:18...MBString Support Found
+2023-04-17 00:03:18...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:03:18.../custom directory and subdirectory check passed
+2023-04-17 00:03:18...cache directory and subdirectory check passed
+2023-04-17 00:03:19.../module  directory and subdirectory check passed
+2023-04-17 00:03:19.../upload directory check passed
+2023-04-17 00:03:19...ERROR: Zip support not found.
+2023-04-17 00:03:19...PCRE version check passed
+2023-04-17 00:03:19...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:03:19...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:03:19...Outputting HTML for System check
+2023-04-17 00:03:19...Errors were found *************
+2023-04-17 00:22:25...Begin System Check Process *************
+2023-04-17 00:22:25...XML Parsing Support Found
+2023-04-17 00:22:25...JSON Parsing Support Found
+2023-04-17 00:22:25...MBString Support Found
+2023-04-17 00:22:25...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:22:25.../custom directory and subdirectory check passed
+2023-04-17 00:22:25...cache directory and subdirectory check passed
+2023-04-17 00:22:26.../module  directory and subdirectory check passed
+2023-04-17 00:22:26.../upload directory check passed
+2023-04-17 00:22:26...ERROR: Zip support not found.
+2023-04-17 00:22:26...PCRE version check passed
+2023-04-17 00:22:26...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:22:26...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:22:26...Outputting HTML for System check
+2023-04-17 00:22:26...Errors were found *************
+2023-04-17 00:22:28...Begin System Check Process *************
+2023-04-17 00:22:28...XML Parsing Support Found
+2023-04-17 00:22:28...JSON Parsing Support Found
+2023-04-17 00:22:28...MBString Support Found
+2023-04-17 00:22:28...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:22:28.../custom directory and subdirectory check passed
+2023-04-17 00:22:28...cache directory and subdirectory check passed
+2023-04-17 00:22:29.../module  directory and subdirectory check passed
+2023-04-17 00:22:29.../upload directory check passed
+2023-04-17 00:22:29...ERROR: Zip support not found.
+2023-04-17 00:22:29...PCRE version check passed
+2023-04-17 00:22:29...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:22:29...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:22:29...Outputting HTML for System check
+2023-04-17 00:22:29...Errors were found *************
+2023-04-17 00:22:30...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:22:33...Begin System Check Process *************
+2023-04-17 00:22:33...XML Parsing Support Found
+2023-04-17 00:22:33...JSON Parsing Support Found
+2023-04-17 00:22:34...MBString Support Found
+2023-04-17 00:22:34...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:22:34.../custom directory and subdirectory check passed
+2023-04-17 00:22:34...cache directory and subdirectory check passed
+2023-04-17 00:22:35.../module  directory and subdirectory check passed
+2023-04-17 00:22:35.../upload directory check passed
+2023-04-17 00:22:35...ERROR: Zip support not found.
+2023-04-17 00:22:35...PCRE version check passed
+2023-04-17 00:22:35...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:22:35...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:22:35...Outputting HTML for System check
+2023-04-17 00:22:35...Errors were found *************
+2023-04-17 00:22:54...Begin System Check Process *************
+2023-04-17 00:22:54...XML Parsing Support Found
+2023-04-17 00:22:54...JSON Parsing Support Found
+2023-04-17 00:22:54...MBString Support Found
+2023-04-17 00:22:54...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:22:54.../custom directory and subdirectory check passed
+2023-04-17 00:22:54...cache directory and subdirectory check passed
+2023-04-17 00:22:55.../module  directory and subdirectory check passed
+2023-04-17 00:22:55.../upload directory check passed
+2023-04-17 00:22:55...ERROR: Zip support not found.
+2023-04-17 00:22:55...PCRE version check passed
+2023-04-17 00:22:55...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:22:55...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:22:55...Outputting HTML for System check
+2023-04-17 00:22:55...Errors were found *************
+2023-04-17 00:22:58...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:23:03...Begin System Check Process *************
+2023-04-17 00:23:03...XML Parsing Support Found
+2023-04-17 00:23:03...JSON Parsing Support Found
+2023-04-17 00:23:03...MBString Support Found
+2023-04-17 00:23:03...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:23:03.../custom directory and subdirectory check passed
+2023-04-17 00:23:03...cache directory and subdirectory check passed
+2023-04-17 00:23:03.../module  directory and subdirectory check passed
+2023-04-17 00:23:03.../upload directory check passed
+2023-04-17 00:23:03...ERROR: Zip support not found.
+2023-04-17 00:23:03...PCRE version check passed
+2023-04-17 00:23:03...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:23:03...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:23:03...Outputting HTML for System check
+2023-04-17 00:23:03...Errors were found *************
+2023-04-17 00:28:23...Begin System Check Process *************
+2023-04-17 00:28:23...XML Parsing Support Found
+2023-04-17 00:28:23...JSON Parsing Support Found
+2023-04-17 00:28:23...MBString Support Found
+2023-04-17 00:28:23...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:28:23.../custom directory and subdirectory check passed
+2023-04-17 00:28:23...cache directory and subdirectory check passed
+2023-04-17 00:28:24.../module  directory and subdirectory check passed
+2023-04-17 00:28:24.../upload directory check passed
+2023-04-17 00:28:24...ERROR: Zip support not found.
+2023-04-17 00:28:25...PCRE version check passed
+2023-04-17 00:28:25...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:28:25...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:28:25...Outputting HTML for System check
+2023-04-17 00:28:25...Errors were found *************
+2023-04-17 00:28:25...Begin System Check Process *************
+2023-04-17 00:28:25...XML Parsing Support Found
+2023-04-17 00:28:25...JSON Parsing Support Found
+2023-04-17 00:28:25...MBString Support Found
+2023-04-17 00:28:25...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2023-04-17 00:28:25.../custom directory and subdirectory check passed
+2023-04-17 00:28:25...cache directory and subdirectory check passed
+2023-04-17 00:28:26.../module  directory and subdirectory check passed
+2023-04-17 00:28:26.../upload directory check passed
+2023-04-17 00:28:26...ERROR: Zip support not found.
+2023-04-17 00:28:26...PCRE version check passed
+2023-04-17 00:28:26...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:28:26...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:28:26...Outputting HTML for System check
+2023-04-17 00:28:26...Errors were found *************
+2023-04-17 00:32:55...Begin System Check Process *************
+2023-04-17 00:32:55...XML Parsing Support Found
+2023-04-17 00:32:55...JSON Parsing Support Found
+2023-04-17 00:32:55...MBString Support Found
+2023-04-17 00:32:55...ZIP Support Found
+2023-04-17 00:32:55.../custom directory and subdirectory check passed
+2023-04-17 00:32:55...cache directory and subdirectory check passed
+2023-04-17 00:32:56.../module  directory and subdirectory check passed
+2023-04-17 00:32:56.../upload directory check passed
+2023-04-17 00:32:56.../zip check passed
+2023-04-17 00:32:56...PCRE version check passed
+2023-04-17 00:32:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:32:56...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:32:56...Outputting HTML for System check
+2023-04-17 00:32:56...No Errors were found *************
+2023-04-17 00:32:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:37:59...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:42:23...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:42:27...Begin System Check Process *************
+2023-04-17 00:42:27...XML Parsing Support Found
+2023-04-17 00:42:27...JSON Parsing Support Found
+2023-04-17 00:42:27...MBString Support Found
+2023-04-17 00:42:27...ZIP Support Found
+2023-04-17 00:42:27.../custom directory and subdirectory check passed
+2023-04-17 00:42:27...cache directory and subdirectory check passed
+2023-04-17 00:42:28.../module  directory and subdirectory check passed
+2023-04-17 00:42:28.../upload directory check passed
+2023-04-17 00:42:28.../zip check passed
+2023-04-17 00:42:28...PCRE version check passed
+2023-04-17 00:42:28...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:42:28...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:42:28...Outputting HTML for System check
+2023-04-17 00:42:28...No Errors were found *************
+2023-04-17 00:42:29...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:42:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:43:02...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:46:22...Begin System Check Process *************
+2023-04-17 00:46:22...XML Parsing Support Found
+2023-04-17 00:46:22...JSON Parsing Support Found
+2023-04-17 00:46:22...MBString Support Found
+2023-04-17 00:46:22...ZIP Support Found
+2023-04-17 00:46:22.../custom directory and subdirectory check passed
+2023-04-17 00:46:22...cache directory and subdirectory check passed
+2023-04-17 00:46:23.../module  directory and subdirectory check passed
+2023-04-17 00:46:23.../upload directory check passed
+2023-04-17 00:46:23.../zip check passed
+2023-04-17 00:46:23...PCRE version check passed
+2023-04-17 00:46:23...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:46:23...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 00:46:23...Outputting HTML for System check
+2023-04-17 00:46:23...No Errors were found *************
+2023-04-17 00:46:23...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:47:11...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 00:51:00...Begin DB Check Process *************
+2023-04-17 00:51:00...testing with mysql:mysqli
+2023-04-17 00:51:00...Basic form info is valid, continuing Process.
+2023-04-17 00:51:00...Testing user account...
+2023-04-17 00:54:48...Begin DB Check Process *************
+2023-04-17 00:54:48...testing with mysql:mysqli
+2023-04-17 00:54:48...Basic form info is valid, continuing Process.
+2023-04-17 00:54:48...Testing user account...
+2023-04-17 00:54:59...Begin DB Check Process *************
+2023-04-17 00:54:59...testing with mysql:mysqli
+2023-04-17 00:54:59...Basic form info is valid, continuing Process.
+2023-04-17 00:54:59...Testing user account...
+2023-04-17 01:02:16...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:26:28...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:31:28...Begin DB Check Process *************
+2023-04-17 01:31:28...testing with mysql:mysqli
+2023-04-17 01:31:28...Basic form info is valid, continuing Process.
+2023-04-17 01:31:28...Testing user account...
+2023-04-17 01:34:24...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:40:29...Begin DB Check Process *************
+2023-04-17 01:40:29...testing with mysql:mysqli
+2023-04-17 01:40:29...Basic form info is valid, continuing Process.
+2023-04-17 01:40:29...Testing user account...
+2023-04-17 01:40:29...Connection made using  host: localhost, usr: root
+2023-04-17 01:40:29...SUCCESS:: no errors detected!
+2023-04-17 01:40:29...End DB Check Process *************
+2023-04-17 01:40:30...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:41:02...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:41:21...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 01:42:59...Begin DB Check Process *************
+2023-04-17 01:42:59...testing with mysql:mysqli
+2023-04-17 01:42:59...Basic form info is valid, continuing Process.
+2023-04-17 01:42:59...Testing user account...
+2023-04-17 01:42:59...Connection made using  host: localhost, usr: root
+2023-04-17 01:42:59...SUCCESS:: no errors detected!
+2023-04-17 01:42:59...End DB Check Process *************
+2023-04-17 01:42:59...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:22:06...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:22:13...Begin System Check Process *************
+2023-04-17 12:22:13...XML Parsing Support Found
+2023-04-17 12:22:13...JSON Parsing Support Found
+2023-04-17 12:22:13...MBString Support Found
+2023-04-17 12:22:13...ZIP Support Found
+2023-04-17 12:22:13.../custom directory and subdirectory check passed
+2023-04-17 12:22:13...cache directory and subdirectory check passed
+2023-04-17 12:22:16.../module  directory and subdirectory check passed
+2023-04-17 12:22:16.../upload directory check passed
+2023-04-17 12:22:16.../zip check passed
+2023-04-17 12:22:16...PCRE version check passed
+2023-04-17 12:22:16...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:22:16...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 12:22:16...Outputting HTML for System check
+2023-04-17 12:22:16...No Errors were found *************
+2023-04-17 12:22:16...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:24:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:25:00...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:25:06...Begin System Check Process *************
+2023-04-17 12:25:06...XML Parsing Support Found
+2023-04-17 12:25:06...JSON Parsing Support Found
+2023-04-17 12:25:06...MBString Support Found
+2023-04-17 12:25:06...ZIP Support Found
+2023-04-17 12:25:06.../custom directory and subdirectory check passed
+2023-04-17 12:25:06...cache directory and subdirectory check passed
+2023-04-17 12:25:08.../module  directory and subdirectory check passed
+2023-04-17 12:25:08.../upload directory check passed
+2023-04-17 12:25:08.../zip check passed
+2023-04-17 12:25:08...PCRE version check passed
+2023-04-17 12:25:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:25:08...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 12:25:08...Outputting HTML for System check
+2023-04-17 12:25:08...No Errors were found *************
+2023-04-17 12:25:09...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:27:01...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:27:05...Begin System Check Process *************
+2023-04-17 12:27:05...XML Parsing Support Found
+2023-04-17 12:27:05...JSON Parsing Support Found
+2023-04-17 12:27:05...MBString Support Found
+2023-04-17 12:27:05...ZIP Support Found
+2023-04-17 12:27:05.../custom directory and subdirectory check passed
+2023-04-17 12:27:05...cache directory and subdirectory check passed
+2023-04-17 12:27:07.../module  directory and subdirectory check passed
+2023-04-17 12:27:07.../upload directory check passed
+2023-04-17 12:27:07.../zip check passed
+2023-04-17 12:27:07...PCRE version check passed
+2023-04-17 12:27:07...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:27:07...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 12:27:07...Outputting HTML for System check
+2023-04-17 12:27:07...No Errors were found *************
+2023-04-17 12:27:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:29:46...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:29:50...Begin System Check Process *************
+2023-04-17 12:29:50...XML Parsing Support Found
+2023-04-17 12:29:50...JSON Parsing Support Found
+2023-04-17 12:29:50...MBString Support Found
+2023-04-17 12:29:50...ZIP Support Found
+2023-04-17 12:29:50.../custom directory and subdirectory check passed
+2023-04-17 12:29:50...cache directory and subdirectory check passed
+2023-04-17 12:29:52.../module  directory and subdirectory check passed
+2023-04-17 12:29:52.../upload directory check passed
+2023-04-17 12:29:52.../zip check passed
+2023-04-17 12:29:52...PCRE version check passed
+2023-04-17 12:29:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:29:52...php.ini location found. C:\xampp\php\php.ini
+2023-04-17 12:29:52...Outputting HTML for System check
+2023-04-17 12:29:52...No Errors were found *************
+2023-04-17 12:29:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:30:04...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:30:13...Begin DB Check Process *************
+2023-04-17 12:30:13...testing with mysql:mysqli
+2023-04-17 12:30:13...Basic form info is valid, continuing Process.
+2023-04-17 12:30:13...Testing user account...
+2023-04-17 12:30:13...Connection made using  host: localhost, usr: root
+2023-04-17 12:30:13...SUCCESS:: no errors detected!
+2023-04-17 12:30:13...End DB Check Process *************
+2023-04-17 12:30:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:30:14...calling handleSugarConfig()
+2023-04-17 12:30:14...calling handleHtaccess()
+2023-04-17 12:30:14...calling handleDbCreateDatabase()
+2023-04-17 12:30:21...looping through all the Beans and create their tables
+2023-04-17 12:30:21...processing table acl_actions
+2023-04-17 12:30:21...creating table acl_actions
+2023-04-17 12:30:21...creating Relationship Meta for ACLAction
+2023-04-17 12:30:21...processing table acl_roles
+2023-04-17 12:30:21...creating table acl_roles
+2023-04-17 12:30:21...creating Relationship Meta for ACLRole
+2023-04-17 12:30:21...processing table relationships
+2023-04-17 12:30:22...creating table relationships
+2023-04-17 12:30:22...creating Relationship Meta for Relationship
+2023-04-17 12:30:22...processing table leads
+2023-04-17 12:30:28...creating table leads
+2023-04-17 12:30:28...creating Relationship Meta for Lead
+2023-04-17 12:30:28...processing table cases
+2023-04-17 12:30:29...creating table cases
+2023-04-17 12:30:29...creating Relationship Meta for Case
+2023-04-17 12:30:29...processing table bugs
+2023-04-17 12:30:29...creating table bugs
+2023-04-17 12:30:29...creating Relationship Meta for Bug
+2023-04-17 12:30:29...processing table users
+2023-04-17 12:30:29...creating table users
+2023-04-17 12:30:29...creating Relationship Meta for User
+2023-04-17 12:30:29...processing table campaign_log
+2023-04-17 12:30:29...creating table campaign_log
+2023-04-17 12:30:29...creating Relationship Meta for CampaignLog
+2023-04-17 12:30:30...processing table project
+2023-04-17 12:30:30...creating table project
+2023-04-17 12:30:30...creating Relationship Meta for Project
+2023-04-17 12:30:30...processing table project_task
+2023-04-17 12:30:30...creating table project_task
+2023-04-17 12:30:30...creating Relationship Meta for ProjectTask
+2023-04-17 12:30:30...processing table campaigns
+2023-04-17 12:30:31...creating table campaigns
+2023-04-17 12:30:31...creating Relationship Meta for Campaign
+2023-04-17 12:30:31...processing table prospect_lists
+2023-04-17 12:30:31...creating table prospect_lists
+2023-04-17 12:30:31...creating Relationship Meta for ProspectList
+2023-04-17 12:30:31...processing table prospects
+2023-04-17 12:30:31...creating table prospects
+2023-04-17 12:30:31...creating Relationship Meta for Prospect
+2023-04-17 12:30:32...processing table email_marketing
+2023-04-17 12:30:32...creating table email_marketing
+2023-04-17 12:30:32...creating Relationship Meta for EmailMarketing
+2023-04-17 12:30:32...processing table campaign_trkrs
+2023-04-17 12:30:32...creating table campaign_trkrs
+2023-04-17 12:30:32...creating Relationship Meta for CampaignTracker
+2023-04-17 12:30:32...processing table releases
+2023-04-17 12:30:32...creating table releases
+2023-04-17 12:30:32...creating Relationship Meta for Release
+2023-04-17 12:30:32...processing table emailman
+2023-04-17 12:30:32...creating table emailman
+2023-04-17 12:30:32...creating Relationship Meta for EmailMan
+2023-04-17 12:30:32...processing table schedulers
+2023-04-17 12:30:32...creating table schedulers
+2023-04-17 12:30:32...creating Relationship Meta for Scheduler
+2023-04-17 12:30:32...processing table job_queue
+2023-04-17 12:30:33...creating table job_queue
+2023-04-17 12:30:33...creating Relationship Meta for SchedulersJob
+2023-04-17 12:30:33...processing table contacts
+2023-04-17 12:30:33...creating table contacts
+2023-04-17 12:30:33...creating Relationship Meta for Contact
+2023-04-17 12:30:33...processing table accounts
+2023-04-17 12:30:34...creating table accounts
+2023-04-17 12:30:34...creating Relationship Meta for Account
+2023-04-17 12:30:34...processing table opportunities
+2023-04-17 12:30:34...creating table opportunities
+2023-04-17 12:30:34...creating Relationship Meta for Opportunity
+2023-04-17 12:30:34...processing table email_templates
+2023-04-17 12:30:34...creating table email_templates
+2023-04-17 12:30:34...creating Relationship Meta for EmailTemplate
+2023-04-17 12:30:35...processing table notes
+2023-04-17 12:30:35...creating table notes
+2023-04-17 12:30:35...creating Relationship Meta for Note
+2023-04-17 12:30:35...processing table calls
+2023-04-17 12:30:35...creating table calls
+2023-04-17 12:30:35...creating Relationship Meta for Call
+2023-04-17 12:30:35...processing table emails
+2023-04-17 12:30:36...creating table emails
+2023-04-17 12:30:36...creating Relationship Meta for Email
+2023-04-17 12:30:36...processing table meetings
+2023-04-17 12:30:36...creating table meetings
+2023-04-17 12:30:36...creating Relationship Meta for Meeting
+2023-04-17 12:30:36...processing table tasks
+2023-04-17 12:30:36...creating table tasks
+2023-04-17 12:30:36...creating Relationship Meta for Task
+2023-04-17 12:30:36...processing table users
+2023-04-17 12:30:37...processing table users
+2023-04-17 12:30:37...processing table currencies
+2023-04-17 12:30:37...creating table currencies
+2023-04-17 12:30:37...creating Relationship Meta for Currency
+2023-04-17 12:30:37...processing table tracker
+2023-04-17 12:30:37...creating table tracker
+2023-04-17 12:30:37...creating Relationship Meta for Tracker
+2023-04-17 12:30:37...processing table import_maps
+2023-04-17 12:30:37...creating table import_maps
+2023-04-17 12:30:37...creating Relationship Meta for ImportMap
+2023-04-17 12:30:37...processing table users_last_import
+2023-04-17 12:30:37...creating table users_last_import
+2023-04-17 12:30:37...creating Relationship Meta for UsersLastImport
+2023-04-17 12:30:37...processing table config
+2023-04-17 12:30:37...creating table config
+2023-04-17 12:30:37...creating Relationship Meta for Administration
+2023-04-17 12:30:37...processing table upgrade_history
+2023-04-17 12:30:37...creating table upgrade_history
+2023-04-17 12:30:37...creating Relationship Meta for UpgradeHistory
+2023-04-17 12:30:37...processing table vcals
+2023-04-17 12:30:37...creating table vcals
+2023-04-17 12:30:37...creating Relationship Meta for vCal
+2023-04-17 12:30:37...processing table alerts
+2023-04-17 12:30:37...creating table alerts
+2023-04-17 12:30:37...creating Relationship Meta for Alert
+2023-04-17 12:30:38...processing table roles
+2023-04-17 12:30:38...creating table roles
+2023-04-17 12:30:38...creating Relationship Meta for Role
+2023-04-17 12:30:38...processing table documents
+2023-04-17 12:30:38...creating table documents
+2023-04-17 12:30:38...creating Relationship Meta for Document
+2023-04-17 12:30:38...processing table document_revisions
+2023-04-17 12:30:38...creating table document_revisions
+2023-04-17 12:30:38...creating Relationship Meta for DocumentRevision
+2023-04-17 12:30:38...processing table fields_meta_data
+2023-04-17 12:30:38...creating table fields_meta_data
+2023-04-17 12:30:38...creating Relationship Meta for FieldsMetaData
+2023-04-17 12:30:38...processing table 
+2023-04-17 12:30:40...processing table inbound_email
+2023-04-17 12:30:40...creating table inbound_email
+2023-04-17 12:30:40...creating Relationship Meta for InboundEmail
+2023-04-17 12:30:40...processing table saved_search
+2023-04-17 12:30:40...creating table saved_search
+2023-04-17 12:30:40...creating Relationship Meta for SavedSearch
+2023-04-17 12:30:40...processing table user_preferences
+2023-04-17 12:30:41...creating table user_preferences
+2023-04-17 12:30:41...creating Relationship Meta for UserPreference
+2023-04-17 12:30:41...processing table 
+2023-04-17 12:30:41...processing table email_addresses
+2023-04-17 12:30:41...creating table email_addresses
+2023-04-17 12:30:41...creating Relationship Meta for EmailAddress
+2023-04-17 12:30:41...processing table emails_text
+2023-04-17 12:30:41...creating table emails_text
+2023-04-17 12:30:41...creating Relationship Meta for EmailText
+2023-04-17 12:30:41...processing table spots
+2023-04-17 12:30:41...creating table spots
+2023-04-17 12:30:41...creating Relationship Meta for Spots
+2023-04-17 12:30:41...processing table aobh_businesshours
+2023-04-17 12:30:41...creating table aobh_businesshours
+2023-04-17 12:30:41...creating Relationship Meta for AOBH_BusinessHours
+2023-04-17 12:30:42...processing table sugarfeed
+2023-04-17 12:30:42...creating table sugarfeed
+2023-04-17 12:30:42...creating Relationship Meta for SugarFeed
+2023-04-17 12:30:42...processing table eapm
+2023-04-17 12:30:42...creating table eapm
+2023-04-17 12:30:42...creating Relationship Meta for EAPM
+2023-04-17 12:30:42...processing table oauth_consumer
+2023-04-17 12:30:42...creating table oauth_consumer
+2023-04-17 12:30:42...creating Relationship Meta for OAuthKey
+2023-04-17 12:30:42...processing table oauth_tokens
+2023-04-17 12:30:42...creating table oauth_tokens
+2023-04-17 12:30:42...creating Relationship Meta for OAuthToken
+2023-04-17 12:30:43...processing table am_projecttemplates
+2023-04-17 12:30:43...creating table am_projecttemplates
+2023-04-17 12:30:43...creating Relationship Meta for AM_ProjectTemplates
+2023-04-17 12:30:43...processing table am_tasktemplates
+2023-04-17 12:30:43...creating table am_tasktemplates
+2023-04-17 12:30:43...creating Relationship Meta for AM_TaskTemplates
+2023-04-17 12:30:43...processing table favorites
+2023-04-17 12:30:43...creating table favorites
+2023-04-17 12:30:43...creating Relationship Meta for Favorites
+2023-04-17 12:30:44...processing table aok_knowledge_base_categories
+2023-04-17 12:30:44...creating table aok_knowledge_base_categories
+2023-04-17 12:30:44...creating Relationship Meta for AOK_Knowledge_Base_Categories
+2023-04-17 12:30:44...processing table aok_knowledgebase
+2023-04-17 12:30:44...creating table aok_knowledgebase
+2023-04-17 12:30:44...creating Relationship Meta for AOK_KnowledgeBase
+2023-04-17 12:30:44...processing table reminders
+2023-04-17 12:30:44...creating table reminders
+2023-04-17 12:30:44...creating Relationship Meta for Reminder
+2023-04-17 12:30:45...processing table reminders_invitees
+2023-04-17 12:30:45...creating table reminders_invitees
+2023-04-17 12:30:45...creating Relationship Meta for Reminder_Invitee
+2023-04-17 12:30:45...processing table fp_events
+2023-04-17 12:30:45...creating table fp_events
+2023-04-17 12:30:45...creating Relationship Meta for FP_events
+2023-04-17 12:30:45...processing table fp_event_locations
+2023-04-17 12:30:45...creating table fp_event_locations
+2023-04-17 12:30:45...creating Relationship Meta for FP_Event_Locations
+2023-04-17 12:30:46...processing table aod_indexevent
+2023-04-17 12:30:46...creating table aod_indexevent
+2023-04-17 12:30:46...creating Relationship Meta for AOD_IndexEvent
+2023-04-17 12:30:47...processing table aod_index
+2023-04-17 12:30:47...creating table aod_index
+2023-04-17 12:30:47...creating Relationship Meta for AOD_Index
+2023-04-17 12:30:47...processing table aop_case_events
+2023-04-17 12:30:47...creating table aop_case_events
+2023-04-17 12:30:47...creating Relationship Meta for AOP_Case_Events
+2023-04-17 12:30:47...processing table aop_case_updates
+2023-04-17 12:30:47...creating table aop_case_updates
+2023-04-17 12:30:47...creating Relationship Meta for AOP_Case_Updates
+2023-04-17 12:30:48...processing table aor_reports
+2023-04-17 12:30:48...creating table aor_reports
+2023-04-17 12:30:48...creating Relationship Meta for AOR_Report
+2023-04-17 12:30:48...processing table aor_fields
+2023-04-17 12:30:48...creating table aor_fields
+2023-04-17 12:30:48...creating Relationship Meta for AOR_Field
+2023-04-17 12:30:48...processing table aor_charts
+2023-04-17 12:30:48...creating table aor_charts
+2023-04-17 12:30:48...creating Relationship Meta for AOR_Chart
+2023-04-17 12:30:49...processing table aor_conditions
+2023-04-17 12:30:49...creating table aor_conditions
+2023-04-17 12:30:49...creating Relationship Meta for AOR_Condition
+2023-04-17 12:30:49...processing table aor_scheduled_reports
+2023-04-17 12:30:49...creating table aor_scheduled_reports
+2023-04-17 12:30:49...creating Relationship Meta for AOR_Scheduled_Reports
+2023-04-17 12:30:49...processing table aos_contracts
+2023-04-17 12:30:49...creating table aos_contracts
+2023-04-17 12:30:49...creating Relationship Meta for AOS_Contracts
+2023-04-17 12:30:50...processing table aos_invoices
+2023-04-17 12:30:50...creating table aos_invoices
+2023-04-17 12:30:50...creating Relationship Meta for AOS_Invoices
+2023-04-17 12:30:50...processing table aos_pdf_templates
+2023-04-17 12:30:50...creating table aos_pdf_templates
+2023-04-17 12:30:50...creating Relationship Meta for AOS_PDF_Templates
+2023-04-17 12:30:50...processing table aos_product_categories
+2023-04-17 12:30:51...creating table aos_product_categories
+2023-04-17 12:30:51...creating Relationship Meta for AOS_Product_Categories
+2023-04-17 12:30:51...processing table aos_products
+2023-04-17 12:30:51...creating table aos_products
+2023-04-17 12:30:51...creating Relationship Meta for AOS_Products
+2023-04-17 12:30:51...processing table aos_products_quotes
+2023-04-17 12:30:51...creating table aos_products_quotes
+2023-04-17 12:30:51...creating Relationship Meta for AOS_Products_Quotes
+2023-04-17 12:30:52...processing table aos_line_item_groups
+2023-04-17 12:30:52...creating table aos_line_item_groups
+2023-04-17 12:30:52...creating Relationship Meta for AOS_Line_Item_Groups
+2023-04-17 12:30:52...processing table aos_quotes
+2023-04-17 12:30:52...creating table aos_quotes
+2023-04-17 12:30:52...creating Relationship Meta for AOS_Quotes
+2023-04-17 12:30:52...processing table aow_actions
+2023-04-17 12:30:52...creating table aow_actions
+2023-04-17 12:30:52...creating Relationship Meta for AOW_Action
+2023-04-17 12:30:53...processing table aow_workflow
+2023-04-17 12:30:53...creating table aow_workflow
+2023-04-17 12:30:53...creating Relationship Meta for AOW_WorkFlow
+2023-04-17 12:30:53...processing table aow_processed
+2023-04-17 12:30:53...creating table aow_processed
+2023-04-17 12:30:53...creating Relationship Meta for AOW_Processed
+2023-04-17 12:30:53...processing table aow_conditions
+2023-04-17 12:30:53...creating table aow_conditions
+2023-04-17 12:30:53...creating Relationship Meta for AOW_Condition
+2023-04-17 12:30:54...processing table jjwg_maps
+2023-04-17 12:30:54...creating table jjwg_maps
+2023-04-17 12:30:54...creating Relationship Meta for jjwg_Maps
+2023-04-17 12:30:54...processing table jjwg_markers
+2023-04-17 12:30:54...creating table jjwg_markers
+2023-04-17 12:30:54...creating Relationship Meta for jjwg_Markers
+2023-04-17 12:30:55...processing table jjwg_areas
+2023-04-17 12:30:55...creating table jjwg_areas
+2023-04-17 12:30:55...creating Relationship Meta for jjwg_Areas
+2023-04-17 12:30:55...processing table jjwg_address_cache
+2023-04-17 12:30:55...creating table jjwg_address_cache
+2023-04-17 12:30:55...creating Relationship Meta for jjwg_Address_Cache
+2023-04-17 12:30:55...processing table calls_reschedule
+2023-04-17 12:30:55...creating table calls_reschedule
+2023-04-17 12:30:55...creating Relationship Meta for Calls_Reschedule
+2023-04-17 12:30:56...processing table securitygroups
+2023-04-17 12:30:56...creating table securitygroups
+2023-04-17 12:30:56...creating Relationship Meta for SecurityGroup
+2023-04-17 12:30:56...processing table outbound_email
+2023-04-17 12:30:56...creating table outbound_email
+2023-04-17 12:30:56...creating Relationship Meta for OutboundEmailAccounts
+2023-04-17 12:30:56...processing table external_oauth_connections
+2023-04-17 12:30:57...creating table external_oauth_connections
+2023-04-17 12:30:57...creating Relationship Meta for ExternalOAuthConnection
+2023-04-17 12:30:57...processing table external_oauth_providers
+2023-04-17 12:30:57...creating table external_oauth_providers
+2023-04-17 12:30:57...creating Relationship Meta for ExternalOAuthProvider
+2023-04-17 12:30:57...processing table templatesectionline
+2023-04-17 12:30:57...creating table templatesectionline
+2023-04-17 12:30:57...creating Relationship Meta for TemplateSectionLine
+2023-04-17 12:30:57...processing table oauth2tokens
+2023-04-17 12:30:57...creating table oauth2tokens
+2023-04-17 12:30:57...creating Relationship Meta for OAuth2Tokens
+2023-04-17 12:30:58...processing table oauth2clients
+2023-04-17 12:30:58...creating table oauth2clients
+2023-04-17 12:30:58...creating Relationship Meta for OAuth2Clients
+2023-04-17 12:30:58...processing table surveyresponses
+2023-04-17 12:30:58...creating table surveyresponses
+2023-04-17 12:30:58...creating Relationship Meta for SurveyResponses
+2023-04-17 12:30:58...processing table surveys
+2023-04-17 12:30:59...creating table surveys
+2023-04-17 12:30:59...creating Relationship Meta for Surveys
+2023-04-17 12:30:59...processing table surveyquestionresponses
+2023-04-17 12:30:59...creating table surveyquestionresponses
+2023-04-17 12:30:59...creating Relationship Meta for SurveyQuestionResponses
+2023-04-17 12:30:59...processing table surveyquestions
+2023-04-17 12:30:59...creating table surveyquestions
+2023-04-17 12:30:59...creating Relationship Meta for SurveyQuestions
+2023-04-17 12:30:59...processing table surveyquestionoptions
+2023-04-17 12:31:00...creating table surveyquestionoptions
+2023-04-17 12:31:00...creating Relationship Meta for SurveyQuestionOptions
+2023-04-17 12:31:04...Begin creating Defaults
+2023-04-17 12:31:04...insert defaults into config table
+2023-04-17 12:31:04...Creating default users
+2023-04-17 12:31:05...Creating default scheduler jobs
+2023-04-17 12:31:05...Enable SugarFeeds
+2023-04-17 12:31:05...Installation has completed *********
+2023-04-17 12:31:23...populating the db with seed data
+2023-04-17 12:31:23...Save configuration settings..
+2023-04-17 12:31:23...save locale
+2023-04-17 12:31:23...new Administration
+2023-04-17 12:31:23...retrieveSettings
+2023-04-17 12:31:23...AdminWizard OFF
+2023-04-17 12:31:23...saveConfig
+2023-04-17 12:31:23...new Configurator
+2023-04-17 12:31:23...populateFromPost
+2023-04-17 12:31:23...handleOverride
+2023-04-17 12:31:23...addCronAllowedUser
+2023-04-17 12:31:23...saveConfig
+2023-04-17 12:31:23...new Currency
+2023-04-17 12:31:23...retrieve
+2023-04-17 12:31:23...DBG: save currency
+2023-04-17 12:31:23...Save user settings..
+2023-04-17 12:31:23...DBG: SugarThemeRegistry::getDefault
+2023-04-17 12:31:50...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:53:06...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:55:51...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:55:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:56:42...Begin DB Check Process *************
+2023-04-17 12:56:42...testing with mysql:mysqli
+2023-04-17 12:56:42...Basic form info is valid, continuing Process.
+2023-04-17 12:56:42...Testing user account...
+2023-04-17 12:56:42...Connection made using  host: localhost, usr: root
+2023-04-17 12:56:42...SUCCESS:: no errors detected!
+2023-04-17 12:56:42...End DB Check Process *************
+2023-04-17 12:56:42...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2023-04-17 12:56:42...calling handleSugarConfig()
+2023-04-17 12:56:42...calling handleHtaccess()
+2023-04-17 12:56:42...calling handleDbCreateDatabase()
+2023-04-17 12:56:47...looping through all the Beans and create their tables
+2023-04-17 12:56:47...processing table acl_actions
+2023-04-17 12:56:47...creating table acl_actions
+2023-04-17 12:56:47...creating Relationship Meta for ACLAction
+2023-04-17 12:56:47...processing table acl_roles
+2023-04-17 12:56:47...creating table acl_roles
+2023-04-17 12:56:47...creating Relationship Meta for ACLRole
+2023-04-17 12:56:47...processing table relationships
+2023-04-17 12:56:47...creating table relationships
+2023-04-17 12:56:47...creating Relationship Meta for Relationship
+2023-04-17 12:56:47...processing table leads
+2023-04-17 12:56:47...creating table leads
+2023-04-17 12:56:47...creating Relationship Meta for Lead
+2023-04-17 12:56:48...processing table cases
+2023-04-17 12:56:48...creating table cases
+2023-04-17 12:56:48...creating Relationship Meta for Case
+2023-04-17 12:56:48...processing table bugs
+2023-04-17 12:56:48...creating table bugs
+2023-04-17 12:56:48...creating Relationship Meta for Bug
+2023-04-17 12:56:48...processing table users
+2023-04-17 12:56:48...creating table users
+2023-04-17 12:56:48...creating Relationship Meta for User
+2023-04-17 12:56:49...processing table campaign_log
+2023-04-17 12:56:49...creating table campaign_log
+2023-04-17 12:56:49...creating Relationship Meta for CampaignLog
+2023-04-17 12:56:49...processing table project
+2023-04-17 12:56:49...creating table project
+2023-04-17 12:56:49...creating Relationship Meta for Project
+2023-04-17 12:56:49...processing table project_task
+2023-04-17 12:56:49...creating table project_task
+2023-04-17 12:56:49...creating Relationship Meta for ProjectTask
+2023-04-17 12:56:49...processing table campaigns
+2023-04-17 12:56:50...creating table campaigns
+2023-04-17 12:56:50...creating Relationship Meta for Campaign
+2023-04-17 12:56:50...processing table prospect_lists
+2023-04-17 12:56:50...creating table prospect_lists
+2023-04-17 12:56:50...creating Relationship Meta for ProspectList
+2023-04-17 12:56:50...processing table prospects
+2023-04-17 12:56:50...creating table prospects
+2023-04-17 12:56:50...creating Relationship Meta for Prospect
+2023-04-17 12:56:50...processing table email_marketing
+2023-04-17 12:56:50...creating table email_marketing
+2023-04-17 12:56:50...creating Relationship Meta for EmailMarketing
+2023-04-17 12:56:50...processing table campaign_trkrs
+2023-04-17 12:56:50...creating table campaign_trkrs
+2023-04-17 12:56:50...creating Relationship Meta for CampaignTracker
+2023-04-17 12:56:50...processing table releases
+2023-04-17 12:56:50...creating table releases
+2023-04-17 12:56:50...creating Relationship Meta for Release
+2023-04-17 12:56:51...processing table emailman
+2023-04-17 12:56:51...creating table emailman
+2023-04-17 12:56:51...creating Relationship Meta for EmailMan
+2023-04-17 12:56:51...processing table schedulers
+2023-04-17 12:56:51...creating table schedulers
+2023-04-17 12:56:51...creating Relationship Meta for Scheduler
+2023-04-17 12:56:51...processing table job_queue
+2023-04-17 12:56:51...creating table job_queue
+2023-04-17 12:56:51...creating Relationship Meta for SchedulersJob
+2023-04-17 12:56:51...processing table contacts
+2023-04-17 12:56:51...creating table contacts
+2023-04-17 12:56:51...creating Relationship Meta for Contact
+2023-04-17 12:56:51...processing table accounts
+2023-04-17 12:56:52...creating table accounts
+2023-04-17 12:56:52...creating Relationship Meta for Account
+2023-04-17 12:56:52...processing table opportunities
+2023-04-17 12:56:52...creating table opportunities
+2023-04-17 12:56:52...creating Relationship Meta for Opportunity
+2023-04-17 12:56:52...processing table email_templates
+2023-04-17 12:56:52...creating table email_templates
+2023-04-17 12:56:52...creating Relationship Meta for EmailTemplate
+2023-04-17 12:56:52...processing table notes
+2023-04-17 12:56:52...creating table notes
+2023-04-17 12:56:52...creating Relationship Meta for Note
+2023-04-17 12:56:53...processing table calls
+2023-04-17 12:56:53...creating table calls
+2023-04-17 12:56:53...creating Relationship Meta for Call
+2023-04-17 12:56:53...processing table emails
+2023-04-17 12:56:53...creating table emails
+2023-04-17 12:56:53...creating Relationship Meta for Email
+2023-04-17 12:56:53...processing table meetings
+2023-04-17 12:56:53...creating table meetings
+2023-04-17 12:56:53...creating Relationship Meta for Meeting
+2023-04-17 12:56:53...processing table tasks
+2023-04-17 12:56:54...creating table tasks
+2023-04-17 12:56:54...creating Relationship Meta for Task
+2023-04-17 12:56:54...processing table users
+2023-04-17 12:56:54...processing table users
+2023-04-17 12:56:54...processing table currencies
+2023-04-17 12:56:54...creating table currencies
+2023-04-17 12:56:54...creating Relationship Meta for Currency
+2023-04-17 12:56:54...processing table tracker
+2023-04-17 12:56:54...creating table tracker
+2023-04-17 12:56:54...creating Relationship Meta for Tracker
+2023-04-17 12:56:54...processing table import_maps
+2023-04-17 12:56:54...creating table import_maps
+2023-04-17 12:56:54...creating Relationship Meta for ImportMap
+2023-04-17 12:56:54...processing table users_last_import
+2023-04-17 12:56:54...creating table users_last_import
+2023-04-17 12:56:54...creating Relationship Meta for UsersLastImport
+2023-04-17 12:56:54...processing table config
+2023-04-17 12:56:54...creating table config
+2023-04-17 12:56:54...creating Relationship Meta for Administration
+2023-04-17 12:56:54...processing table upgrade_history
+2023-04-17 12:56:54...creating table upgrade_history
+2023-04-17 12:56:54...creating Relationship Meta for UpgradeHistory
+2023-04-17 12:56:54...processing table vcals
+2023-04-17 12:56:54...creating table vcals
+2023-04-17 12:56:54...creating Relationship Meta for vCal
+2023-04-17 12:56:54...processing table alerts
+2023-04-17 12:56:54...creating table alerts
+2023-04-17 12:56:54...creating Relationship Meta for Alert
+2023-04-17 12:56:54...processing table roles
+2023-04-17 12:56:54...creating table roles
+2023-04-17 12:56:54...creating Relationship Meta for Role
+2023-04-17 12:56:55...processing table documents
+2023-04-17 12:56:55...creating table documents
+2023-04-17 12:56:55...creating Relationship Meta for Document
+2023-04-17 12:56:55...processing table document_revisions
+2023-04-17 12:56:55...creating table document_revisions
+2023-04-17 12:56:55...creating Relationship Meta for DocumentRevision
+2023-04-17 12:56:55...processing table fields_meta_data
+2023-04-17 12:56:55...creating table fields_meta_data
+2023-04-17 12:56:55...creating Relationship Meta for FieldsMetaData
+2023-04-17 12:56:55...processing table 
+2023-04-17 12:56:55...processing table inbound_email
+2023-04-17 12:56:55...creating table inbound_email
+2023-04-17 12:56:55...creating Relationship Meta for InboundEmail
+2023-04-17 12:56:55...processing table saved_search
+2023-04-17 12:56:55...creating table saved_search
+2023-04-17 12:56:55...creating Relationship Meta for SavedSearch
+2023-04-17 12:56:55...processing table user_preferences
+2023-04-17 12:56:55...creating table user_preferences
+2023-04-17 12:56:55...creating Relationship Meta for UserPreference
+2023-04-17 12:56:55...processing table 
+2023-04-17 12:56:55...processing table email_addresses
+2023-04-17 12:56:55...creating table email_addresses
+2023-04-17 12:56:55...creating Relationship Meta for EmailAddress
+2023-04-17 12:56:55...processing table emails_text
+2023-04-17 12:56:56...creating table emails_text
+2023-04-17 12:56:56...creating Relationship Meta for EmailText
+2023-04-17 12:56:56...processing table spots
+2023-04-17 12:56:56...creating table spots
+2023-04-17 12:56:56...creating Relationship Meta for Spots
+2023-04-17 12:56:56...processing table aobh_businesshours
+2023-04-17 12:56:56...creating table aobh_businesshours
+2023-04-17 12:56:56...creating Relationship Meta for AOBH_BusinessHours
+2023-04-17 12:56:56...processing table sugarfeed
+2023-04-17 12:56:56...creating table sugarfeed
+2023-04-17 12:56:56...creating Relationship Meta for SugarFeed
+2023-04-17 12:56:56...processing table eapm
+2023-04-17 12:56:56...creating table eapm
+2023-04-17 12:56:56...creating Relationship Meta for EAPM
+2023-04-17 12:56:56...processing table oauth_consumer
+2023-04-17 12:56:56...creating table oauth_consumer
+2023-04-17 12:56:56...creating Relationship Meta for OAuthKey
+2023-04-17 12:56:56...processing table oauth_tokens
+2023-04-17 12:56:56...creating table oauth_tokens
+2023-04-17 12:56:56...creating Relationship Meta for OAuthToken
+2023-04-17 12:56:57...processing table am_projecttemplates
+2023-04-17 12:56:57...creating table am_projecttemplates
+2023-04-17 12:56:57...creating Relationship Meta for AM_ProjectTemplates
+2023-04-17 12:56:57...processing table am_tasktemplates
+2023-04-17 12:56:57...creating table am_tasktemplates
+2023-04-17 12:56:57...creating Relationship Meta for AM_TaskTemplates
+2023-04-17 12:56:57...processing table favorites
+2023-04-17 12:56:57...creating table favorites
+2023-04-17 12:56:57...creating Relationship Meta for Favorites
+2023-04-17 12:56:57...processing table aok_knowledge_base_categories
+2023-04-17 12:56:57...creating table aok_knowledge_base_categories
+2023-04-17 12:56:57...creating Relationship Meta for AOK_Knowledge_Base_Categories
+2023-04-17 12:56:58...processing table aok_knowledgebase
+2023-04-17 12:56:58...creating table aok_knowledgebase
+2023-04-17 12:56:58...creating Relationship Meta for AOK_KnowledgeBase
+2023-04-17 12:56:58...processing table reminders
+2023-04-17 12:56:58...creating table reminders
+2023-04-17 12:56:58...creating Relationship Meta for Reminder
+2023-04-17 12:56:58...processing table reminders_invitees
+2023-04-17 12:56:58...creating table reminders_invitees
+2023-04-17 12:56:58...creating Relationship Meta for Reminder_Invitee
+2023-04-17 12:56:58...processing table fp_events
+2023-04-17 12:56:58...creating table fp_events
+2023-04-17 12:56:58...creating Relationship Meta for FP_events
+2023-04-17 12:56:58...processing table fp_event_locations
+2023-04-17 12:56:59...creating table fp_event_locations
+2023-04-17 12:56:59...creating Relationship Meta for FP_Event_Locations
+2023-04-17 12:56:59...processing table aod_indexevent
+2023-04-17 12:56:59...creating table aod_indexevent
+2023-04-17 12:56:59...creating Relationship Meta for AOD_IndexEvent
+2023-04-17 12:56:59...processing table aod_index
+2023-04-17 12:56:59...creating table aod_index
+2023-04-17 12:56:59...creating Relationship Meta for AOD_Index
+2023-04-17 12:56:59...processing table aop_case_events
+2023-04-17 12:56:59...creating table aop_case_events
+2023-04-17 12:56:59...creating Relationship Meta for AOP_Case_Events
+2023-04-17 12:57:00...processing table aop_case_updates
+2023-04-17 12:57:00...creating table aop_case_updates
+2023-04-17 12:57:00...creating Relationship Meta for AOP_Case_Updates
+2023-04-17 12:57:00...processing table aor_reports
+2023-04-17 12:57:00...creating table aor_reports
+2023-04-17 12:57:00...creating Relationship Meta for AOR_Report
+2023-04-17 12:57:00...processing table aor_fields
+2023-04-17 12:57:00...creating table aor_fields
+2023-04-17 12:57:00...creating Relationship Meta for AOR_Field
+2023-04-17 12:57:00...processing table aor_charts
+2023-04-17 12:57:00...creating table aor_charts
+2023-04-17 12:57:00...creating Relationship Meta for AOR_Chart
+2023-04-17 12:57:00...processing table aor_conditions
+2023-04-17 12:57:00...creating table aor_conditions
+2023-04-17 12:57:00...creating Relationship Meta for AOR_Condition
+2023-04-17 12:57:00...processing table aor_scheduled_reports
+2023-04-17 12:57:01...creating table aor_scheduled_reports
+2023-04-17 12:57:01...creating Relationship Meta for AOR_Scheduled_Reports
+2023-04-17 12:57:01...processing table aos_contracts
+2023-04-17 12:57:01...creating table aos_contracts
+2023-04-17 12:57:01...creating Relationship Meta for AOS_Contracts
+2023-04-17 12:57:01...processing table aos_invoices
+2023-04-17 12:57:01...creating table aos_invoices
+2023-04-17 12:57:01...creating Relationship Meta for AOS_Invoices
+2023-04-17 12:57:01...processing table aos_pdf_templates
+2023-04-17 12:57:01...creating table aos_pdf_templates
+2023-04-17 12:57:01...creating Relationship Meta for AOS_PDF_Templates
+2023-04-17 12:57:02...processing table aos_product_categories
+2023-04-17 12:57:02...creating table aos_product_categories
+2023-04-17 12:57:02...creating Relationship Meta for AOS_Product_Categories
+2023-04-17 12:57:02...processing table aos_products
+2023-04-17 12:57:02...creating table aos_products
+2023-04-17 12:57:02...creating Relationship Meta for AOS_Products
+2023-04-17 12:57:02...processing table aos_products_quotes
+2023-04-17 12:57:02...creating table aos_products_quotes
+2023-04-17 12:57:02...creating Relationship Meta for AOS_Products_Quotes
+2023-04-17 12:57:02...processing table aos_line_item_groups
+2023-04-17 12:57:03...creating table aos_line_item_groups
+2023-04-17 12:57:03...creating Relationship Meta for AOS_Line_Item_Groups
+2023-04-17 12:57:03...processing table aos_quotes
+2023-04-17 12:57:03...creating table aos_quotes
+2023-04-17 12:57:03...creating Relationship Meta for AOS_Quotes
+2023-04-17 12:57:03...processing table aow_actions
+2023-04-17 12:57:03...creating table aow_actions
+2023-04-17 12:57:03...creating Relationship Meta for AOW_Action
+2023-04-17 12:57:03...processing table aow_workflow
+2023-04-17 12:57:03...creating table aow_workflow
+2023-04-17 12:57:03...creating Relationship Meta for AOW_WorkFlow
+2023-04-17 12:57:03...processing table aow_processed
+2023-04-17 12:57:03...creating table aow_processed
+2023-04-17 12:57:03...creating Relationship Meta for AOW_Processed
+2023-04-17 12:57:04...processing table aow_conditions
+2023-04-17 12:57:04...creating table aow_conditions
+2023-04-17 12:57:04...creating Relationship Meta for AOW_Condition
+2023-04-17 12:57:04...processing table jjwg_maps
+2023-04-17 12:57:04...creating table jjwg_maps
+2023-04-17 12:57:04...creating Relationship Meta for jjwg_Maps
+2023-04-17 12:57:04...processing table jjwg_markers
+2023-04-17 12:57:04...creating table jjwg_markers
+2023-04-17 12:57:04...creating Relationship Meta for jjwg_Markers
+2023-04-17 12:57:04...processing table jjwg_areas
+2023-04-17 12:57:04...creating table jjwg_areas
+2023-04-17 12:57:04...creating Relationship Meta for jjwg_Areas
+2023-04-17 12:57:05...processing table jjwg_address_cache
+2023-04-17 12:57:05...creating table jjwg_address_cache
+2023-04-17 12:57:05...creating Relationship Meta for jjwg_Address_Cache
+2023-04-17 12:57:05...processing table calls_reschedule
+2023-04-17 12:57:05...creating table calls_reschedule
+2023-04-17 12:57:05...creating Relationship Meta for Calls_Reschedule
+2023-04-17 12:57:05...processing table securitygroups
+2023-04-17 12:57:05...creating table securitygroups
+2023-04-17 12:57:05...creating Relationship Meta for SecurityGroup
+2023-04-17 12:57:05...processing table outbound_email
+2023-04-17 12:57:06...creating table outbound_email
+2023-04-17 12:57:06...creating Relationship Meta for OutboundEmailAccounts
+2023-04-17 12:57:06...processing table external_oauth_connections
+2023-04-17 12:57:06...creating table external_oauth_connections
+2023-04-17 12:57:06...creating Relationship Meta for ExternalOAuthConnection
+2023-04-17 12:57:06...processing table external_oauth_providers
+2023-04-17 12:57:06...creating table external_oauth_providers
+2023-04-17 12:57:06...creating Relationship Meta for ExternalOAuthProvider
+2023-04-17 12:57:06...processing table templatesectionline
+2023-04-17 12:57:06...creating table templatesectionline
+2023-04-17 12:57:06...creating Relationship Meta for TemplateSectionLine
+2023-04-17 12:57:06...processing table oauth2tokens
+2023-04-17 12:57:06...creating table oauth2tokens
+2023-04-17 12:57:06...creating Relationship Meta for OAuth2Tokens
+2023-04-17 12:57:07...processing table oauth2clients
+2023-04-17 12:57:07...creating table oauth2clients
+2023-04-17 12:57:07...creating Relationship Meta for OAuth2Clients
+2023-04-17 12:57:07...processing table surveyresponses
+2023-04-17 12:57:07...creating table surveyresponses
+2023-04-17 12:57:07...creating Relationship Meta for SurveyResponses
+2023-04-17 12:57:07...processing table surveys
+2023-04-17 12:57:07...creating table surveys
+2023-04-17 12:57:07...creating Relationship Meta for Surveys
+2023-04-17 12:57:07...processing table surveyquestionresponses
+2023-04-17 12:57:08...creating table surveyquestionresponses
+2023-04-17 12:57:08...creating Relationship Meta for SurveyQuestionResponses
+2023-04-17 12:57:08...processing table surveyquestions
+2023-04-17 12:57:08...creating table surveyquestions
+2023-04-17 12:57:08...creating Relationship Meta for SurveyQuestions
+2023-04-17 12:57:08...processing table surveyquestionoptions
+2023-04-17 12:57:08...creating table surveyquestionoptions
+2023-04-17 12:57:08...creating Relationship Meta for SurveyQuestionOptions
+2023-04-17 12:57:12...Begin creating Defaults
+2023-04-17 12:57:12...insert defaults into config table
+2023-04-17 12:57:13...Creating default users
+2023-04-17 12:57:13...Creating default scheduler jobs
+2023-04-17 12:57:13...Enable SugarFeeds
+2023-04-17 12:57:13...Installation has completed *********
+2023-04-17 12:57:23...populating the db with seed data
+2023-04-17 12:57:23...Save configuration settings..
+2023-04-17 12:57:23...save locale
+2023-04-17 12:57:23...new Administration
+2023-04-17 12:57:23...retrieveSettings
+2023-04-17 12:57:23...AdminWizard OFF
+2023-04-17 12:57:23...saveConfig
+2023-04-17 12:57:23...new Configurator
+2023-04-17 12:57:23...populateFromPost
+2023-04-17 12:57:23...handleOverride
+2023-04-17 12:57:23...addCronAllowedUser
+2023-04-17 12:57:23...saveConfig
+2023-04-17 12:57:23...new Currency
+2023-04-17 12:57:23...retrieve
+2023-04-17 12:57:23...DBG: save currency
+2023-04-17 12:57:23...Save user settings..
+2023-04-17 12:57:23...DBG: SugarThemeRegistry::getDefault
+2023-04-17 12:57:30...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
