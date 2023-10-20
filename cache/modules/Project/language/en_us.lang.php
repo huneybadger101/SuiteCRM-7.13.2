@@ -1,8 +1,6 @@
 <?php
-// created: 2023-04-17 14:57:50
+// created: 2023-07-24 00:27:16
 $mod_strings = array (
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'LBL_MODULE_NAME' => 'Project',
   'LBL_MODULE_TITLE' => 'Projects: Home',
   'LBL_SEARCH_FORM_TITLE' => 'Project Search',
@@ -41,7 +39,7 @@ $mod_strings = array (
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Projects',
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'History',
-  'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
+  'LBL_CONTACTS_SUBPANEL_TITLE' => 'Patient',
   'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
   'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Opportunities',
   'LBL_CASES_SUBPANEL_TITLE' => 'Cases',
@@ -124,7 +122,8 @@ $mod_strings = array (
   'LBL_CHART_QUARTERLY' => 'Quarterly',
   'LBL_RESOURCE_CHART_MONTH' => 'Month',
   'LBL_RESOURCE_CHART_QUARTER' => 'Quarter',
-  'LBL_PROJECT_CONTACTS_1_FROM_CONTACTS_TITLE' => 'Project Contacts from Contacts Title',
+  'LBL_PROJECT_CONTACTS_1_FROM_CONTACTS_TITLE' => 'Project Patient from Patient Title',
   'LBL_AM_PROJECTTEMPLATES_PROJECT_1_FROM_PROJECT_TITLE' => 'Project Templates: Project from Project Title',
   'LBL_AOS_QUOTES_PROJECT' => 'Quotes: Project',
+  'LBL_CONTACTS' => 'Patient',
 );

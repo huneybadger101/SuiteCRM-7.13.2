@@ -1,5 +1,5 @@
 <?php
-// created: 2023-04-17 14:57:50
+// created: 2023-07-24 00:31:05
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -105,7 +105,7 @@ $mod_strings = array (
   'LBL_LOG_ENTRIES_LEAD_TITLE' => 'Leads Created',
   'LBL_CAMPAIGN_LEAD_SUBPANEL_TITLE' => 'Leads',
   'LBL_OPPORTUNITY_SUBPANEL_TITLE' => 'Opportunities',
-  'LBL_LOG_ENTRIES_CONTACT_TITLE' => 'Contacts Created',
+  'LBL_LOG_ENTRIES_CONTACT_TITLE' => 'Patient Created',
   'ERR_SENDING_NOW' => 'Messages are being delivered , please try this later.',
   'LBL_TRACK_ROI_BUTTON_LABEL' => 'View ROI',
   'LBL_TRACK_DELETE_BUTTON_TITLE' => 'Delete Test Entries',
@@ -317,7 +317,7 @@ $mod_strings = array (
   'LBL_TOP_CAMPAIGNS_REVENUE' => 'Revenue',
   'LBL_TOP_CAMPAIGNS_DESCRIPTION' => 'Top Performing Campaigns by Revenue',
   'LBL_LEADS' => 'Leads',
-  'LBL_CONTACTS' => 'Contacts',
+  'LBL_CONTACTS' => 'Patient',
   'LBL_ACCOUNTS' => 'Accounts',
   'LBL_OPPORTUNITIES' => 'Opportunities',
   'LBL_LOG_ENTRIES' => 'Log Entries',

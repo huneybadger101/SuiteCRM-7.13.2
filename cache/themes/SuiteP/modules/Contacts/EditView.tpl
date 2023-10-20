@@ -151,27 +151,22 @@ maxlength='100'        value='{$value}' title=''      >
 
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="phone_work">
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="email1">
 
 
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_OFFICE_PHONE">
+<div class="col-xs-12 col-sm-4 label" data-label="LBL_EMAIL_ADDRESS">
 
 {minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_OFFICE_PHONE' module='Contacts'}{/capture}
+{capture name="label" assign="label"}{sugar_translate label='LBL_EMAIL_ADDRESS' module='Contacts'}{/capture}
 {$label|strip_semicolon}:
 
 {/minify}
 </div>
 
-<div class="col-xs-12 col-sm-8 edit-view-field " type="phone" field="phone_work"  class="phone">
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="email1"  >
 {counter name="panelFieldCount" print=false}
-
-{if strlen($fields.phone_work.value) <= 0}
-{assign var="value" value=$fields.phone_work.default_value }
-{else}
-{assign var="value" value=$fields.phone_work.value }
-{/if}  
-<input type='text' name='{$fields.phone_work.name}' id='{$fields.phone_work.name}' size='30' maxlength='100' value='{$value}' title='' tabindex='0'	  class="phone" >
+<span id='email1_span'>
+{$fields.email1.value}</span>
 </div>
 
 <!-- [/hide] -->
@@ -208,163 +203,77 @@ maxlength='100'        value='{$value}' title=''      >
 
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="title">
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="nhi_c">
 
 
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_TITLE">
+<div class="col-xs-12 col-sm-4 label" data-label="LBL_NHI">
 
 {minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_TITLE' module='Contacts'}{/capture}
+{capture name="label" assign="label"}{sugar_translate label='LBL_NHI' module='Contacts'}{/capture}
 {$label|strip_semicolon}:
 
+<span class="required">*</span>
 {/minify}
 </div>
 
-<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="title"  >
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="nhi_c"  >
 {counter name="panelFieldCount" print=false}
 
-{if strlen($fields.title.value) <= 0}
-{assign var="value" value=$fields.title.default_value }
+{if strlen($fields.nhi_c.value) <= 0}
+{assign var="value" value=$fields.nhi_c.default_value }
 {else}
-{assign var="value" value=$fields.title.value }
+{assign var="value" value=$fields.nhi_c.value }
 {/if}
-<input type='text' name='{$fields.title.name}'
-id='{$fields.title.name}' size='30'
-maxlength='100'        value='{$value}' title=''      >
+<input type='text' name='{$fields.nhi_c.name}'
+id='{$fields.nhi_c.name}' size='30'
+maxlength='7'        value='{$value}' title='Patient NHI Number'      >
 </div>
 
 <!-- [/hide] -->
 </div>
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="department">
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="dob_c">
 
 
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_DEPARTMENT">
+<div class="col-xs-12 col-sm-4 label" data-label="LBL_DOB">
 
 {minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_DEPARTMENT' module='Contacts'}{/capture}
+{capture name="label" assign="label"}{sugar_translate label='LBL_DOB' module='Contacts'}{/capture}
 {$label|strip_semicolon}:
 
+<span class="required">*</span>
 {/minify}
 </div>
 
-<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="department"  >
+<div class="col-xs-12 col-sm-8 edit-view-field " type="date" field="dob_c"  >
 {counter name="panelFieldCount" print=false}
 
-{if strlen($fields.department.value) <= 0}
-{assign var="value" value=$fields.department.default_value }
-{else}
-{assign var="value" value=$fields.department.value }
-{/if}
-<input type='text' name='{$fields.department.name}'
-id='{$fields.department.name}' size='30'
-maxlength='255'        value='{$value}' title=''      >
-</div>
-
-<!-- [/hide] -->
-</div>
-<div class="clear"></div>
-<div class="clear"></div>
-
-
-
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="account_name">
-
-
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_ACCOUNT_NAME">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_ACCOUNT_NAME' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
-</div>
-
-<div class="col-xs-12 col-sm-8 edit-view-field " type="relate" field="account_name"  >
-{counter name="panelFieldCount" print=false}
-
-<input type="text" name="{$fields.account_name.name}" class="sqsEnabled" tabindex="0" id="{$fields.account_name.name}" size="" value="{$fields.account_name.value}" title='' autocomplete="off"  	 >
-<input type="hidden" name="{$fields.account_name.id_name}" 
-id="{$fields.account_name.id_name}" 
-value="{$fields.account_id.value}">
-<span class="id-ff multiple">
-<button type="button" name="btn_{$fields.account_name.name}" id="btn_{$fields.account_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_SELECT_ACCOUNTS_TITLE"}" class="button firstChild" value="{sugar_translate label="LBL_ACCESSKEY_SELECT_ACCOUNTS_LABEL"}"
-onclick='open_popup(
-"{$fields.account_name.module}", 
-600, 
-400, 
-"", 
-true, 
-false, 
-{literal}{"call_back_function":"set_return","form_name":"EditView","field_to_name_array":{"id":"account_id","name":"account_name","billing_address_street":"primary_address_street","billing_address_city":"primary_address_city","billing_address_state":"primary_address_state","billing_address_postalcode":"primary_address_postalcode","billing_address_country":"primary_address_country","phone_office":"phone_work"}}{/literal}, 
-"single", 
-true
-);' ><span class="suitepicon suitepicon-action-select"></span></button><button type="button" name="btn_clr_{$fields.account_name.name}" id="btn_clr_{$fields.account_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_CLEAR_ACCOUNTS_TITLE"}"  class="button lastChild"
-onclick="SUGAR.clearRelateField(this.form, '{$fields.account_name.name}', '{$fields.account_name.id_name}');"  value="{sugar_translate label="LBL_ACCESSKEY_CLEAR_ACCOUNTS_LABEL"}" ><span class="suitepicon suitepicon-action-clear"></span></button>
+<span class="dateTime">
+{assign var=date_value value=$fields.dob_c.value }
+<input class="date_input" autocomplete="off" type="text" name="{$fields.dob_c.name}" id="{$fields.dob_c.name}" value="{$date_value}" title=''  tabindex='0'    size="11" maxlength="10" >
+<button type="button" id="{$fields.dob_c.name}_trigger" class="btn btn-danger" onclick="return false;"><span class="suitepicon suitepicon-module-calendar" alt="{$APP.LBL_ENTER_DATE}"></span></button>
 </span>
 <script type="text/javascript">
-SUGAR.util.doWhen(
-		"typeof(sqs_objects) != 'undefined' && typeof(sqs_objects['{$form_name}_{$fields.account_name.name}']) != 'undefined'",
-		enableQS
+Calendar.setup ({ldelim}
+inputField : "{$fields.dob_c.name}",
+form : "EditView",
+ifFormat : "{$CALENDAR_FORMAT}",
+daFormat : "{$CALENDAR_FORMAT}",
+button : "{$fields.dob_c.name}_trigger",
+singleClick : true,
+dateStr : "{$date_value}",
+startWeekday: {$CALENDAR_FDOW|default:'0'},
+step : 1,
+weekNumbers:false
+{rdelim}
 );
 </script>
 </div>
 
 <!-- [/hide] -->
 </div>
-
-
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="phone_fax">
-
-
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_FAX_PHONE">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_FAX_PHONE' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
-</div>
-
-<div class="col-xs-12 col-sm-8 edit-view-field " type="phone" field="phone_fax"  class="phone">
-{counter name="panelFieldCount" print=false}
-
-{if strlen($fields.phone_fax.value) <= 0}
-{assign var="value" value=$fields.phone_fax.default_value }
-{else}
-{assign var="value" value=$fields.phone_fax.value }
-{/if}  
-<input type='text' name='{$fields.phone_fax.name}' id='{$fields.phone_fax.name}' size='30' maxlength='100' value='{$value}' title='' tabindex='0'	  class="phone" >
-</div>
-
-<!-- [/hide] -->
-</div>
 <div class="clear"></div>
-<div class="clear"></div>
-
-
-
-<div class="col-xs-12 col-sm-12 edit-view-row-item" data-field="email1">
-
-
-<div class="col-xs-12 col-sm-2 label" data-label="LBL_EMAIL_ADDRESS">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_EMAIL_ADDRESS' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
-</div>
-
-<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="email1" colspan='3' >
-{counter name="panelFieldCount" print=false}
-<span id='email1_span'>
-{$fields.email1.value}</span>
-</div>
-
-<!-- [/hide] -->
-</div>
 <div class="clear"></div>
 
 
@@ -464,139 +373,14 @@ tabindex="0">
 </div>
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="alt_address_street">
-
-
-
-<div class="col-xs-12 col-sm-12 edit-view-field " type="varchar" field="alt_address_street" colspan='2' >
-{counter name="panelFieldCount" print=false}
-
-<script src='{sugar_getjspath file="include/SugarFields/Fields/Address/SugarFieldAddress.js"}'></script>
-<fieldset id='ALT_address_fieldset'>
-<legend>{sugar_translate label='LBL_ALT_ADDRESS' module=''}</legend>
-<table border="0" cellspacing="1" cellpadding="0" class="edit" width="100%">
-<tr>
-<td valign="top" id="alt_address_street_label" width='25%' scope='row'>
-<label for="alt_address_street">{sugar_translate label='LBL_ALT_STREET' module=''}:</label>
-{if $fields.alt_address_street.required || false}
-<span class="required">{$APP.LBL_REQUIRED_SYMBOL}</span>
-{/if}
-</td>
-<td width="*">
-<textarea id="alt_address_street" name="alt_address_street" title='' maxlength="150"
-                          rows="2" cols="30"
-                          tabindex="0">{$fields.alt_address_street.value}</textarea>
-</td>
-</tr>
-<tr>
-<td id="alt_address_city_label" width='%'
-scope='row'>
-<label for="alt_address_city">{sugar_translate label='LBL_CITY' module=''}:
-{if $fields.alt_address_city.required || false}
-<span class="required">{$APP.LBL_REQUIRED_SYMBOL}</span>
-{/if}
-</td>
-<td>
-<input type="text" name="alt_address_city" id="alt_address_city" title='{$fields.alt_address_city.help}' size="30"
-maxlength='150' value='{$fields.alt_address_city.value}'
-tabindex="0">
-</td>
-</tr>
-<tr>
-<td id="alt_address_state_label" width='%'
-scope='row'>
-<label for="alt_address_state">{sugar_translate label='LBL_STATE' module=''}:</label>
-{if $fields.alt_address_state.required || false}
-<span class="required">{$APP.LBL_REQUIRED_SYMBOL}</span>
-{/if}
-</td>
-<td>
-<input type="text" name="alt_address_state" id="alt_address_state" title='{$fields.alt_address_state.help}' size="30"
-maxlength='150' value='{$fields.alt_address_state.value}'
-tabindex="0">
-</td>
-</tr>
-<tr>
-<td id="alt_address_postalcode_label"
-width='%' scope='row'>
-<label for="alt_address_postalcode">{sugar_translate label='LBL_POSTAL_CODE' module=''}:</label>
-{if $fields.alt_address_postalcode.required || false}
-<span class="required">{$APP.LBL_REQUIRED_SYMBOL}</span>
-{/if}
-</td>
-<td>
-<input type="text" name="alt_address_postalcode" id="alt_address_postalcode" title='{$fields.alt_address_postalcode.help}' size="30"
-maxlength='150'                       value='{$fields.alt_address_postalcode.value}' tabindex="0">
-</td>
-</tr>
-<tr>
-<td id="alt_address_country_label" width='%'
-scope='row'>
-<label for="alt_address_country">{sugar_translate label='LBL_COUNTRY' module=''}:</label>
-{if $fields.alt_address_country.required || false}
-<span class="required">{$APP.LBL_REQUIRED_SYMBOL}</span>
-{/if}
-</td>
-<td>
-<input type="text" name="alt_address_country" id="alt_address_country" title='{$fields.alt_address_country.help}' size="30"
-maxlength='150' value='{$fields.alt_address_country.value}'
-tabindex="0">
-</td>
-</tr>
-<tr>
-<td scope='row' NOWRAP>
-{sugar_translate label='LBL_COPY_ADDRESS_FROM_LEFT' module=''}:
-</td>
-<td>
-<input id="alt_checkbox" name="alt_checkbox" type="checkbox"
-onclick="alt_address.syncFields();">
-</td>
-</tr>
-</table>
-</fieldset>
-<script type="text/javascript">
-  SUGAR.util.doWhen("typeof(SUGAR.AddressField) != 'undefined'", function () {ldelim}
-      alt_address = new SUGAR.AddressField("alt_checkbox", 'primary', 'alt');
-      {rdelim});
-</script>
-</div>
-
-<!-- [/hide] -->
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
 <div class="clear"></div>
 <div class="clear"></div>
 
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="description">
-
-
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_DESCRIPTION">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_DESCRIPTION' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
-</div>
-
-<div class="col-xs-12 col-sm-8 edit-view-field " type="text" field="description"  >
-{counter name="panelFieldCount" print=false}
-
-{if empty($fields.description.value)}
-{assign var="value" value=$fields.description.default_value }
-{else}
-{assign var="value" value=$fields.description.value }
-{/if}
-<textarea  id='{$fields.description.name}' name='{$fields.description.name}'
-    rows="6"
-    cols="80"
-    title='' tabindex="0" 
-     >{$value}</textarea>
-{literal}{/literal}
-</div>
-
-<!-- [/hide] -->
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
 
 
@@ -607,50 +391,24 @@ onclick="alt_address.syncFields();">
 
 
 
-<div class="col-xs-12 col-sm-12 edit-view-row-item" data-field="assigned_user_name">
-
-
-<div class="col-xs-12 col-sm-2 label" data-label="LBL_ASSIGNED_TO_NAME">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_ASSIGNED_TO_NAME' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
 
-<div class="col-xs-12 col-sm-8 edit-view-field " type="relate" field="assigned_user_name" colspan='3' >
-{counter name="panelFieldCount" print=false}
 
-<input type="text" name="{$fields.assigned_user_name.name}" class="sqsEnabled" tabindex="0" id="{$fields.assigned_user_name.name}" size="" value="{$fields.assigned_user_name.value}" title='' autocomplete="off"  	 >
-<input type="hidden" name="{$fields.assigned_user_name.id_name}" 
-id="{$fields.assigned_user_name.id_name}" 
-value="{$fields.assigned_user_id.value}">
-<span class="id-ff multiple">
-<button type="button" name="btn_{$fields.assigned_user_name.name}" id="btn_{$fields.assigned_user_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_SELECT_USERS_TITLE"}" class="button firstChild" value="{sugar_translate label="LBL_ACCESSKEY_SELECT_USERS_LABEL"}"
-onclick='open_popup(
-"{$fields.assigned_user_name.module}", 
-600, 
-400, 
-"", 
-true, 
-false, 
-{literal}{"call_back_function":"set_return","form_name":"EditView","field_to_name_array":{"id":"assigned_user_id","user_name":"assigned_user_name"}}{/literal}, 
-"single", 
-true
-);' ><span class="suitepicon suitepicon-action-select"></span></button><button type="button" name="btn_clr_{$fields.assigned_user_name.name}" id="btn_clr_{$fields.assigned_user_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_CLEAR_USERS_TITLE"}"  class="button lastChild"
-onclick="SUGAR.clearRelateField(this.form, '{$fields.assigned_user_name.name}', '{$fields.assigned_user_name.id_name}');"  value="{sugar_translate label="LBL_ACCESSKEY_CLEAR_USERS_LABEL"}" ><span class="suitepicon suitepicon-action-clear"></span></button>
-</span>
-<script type="text/javascript">
-SUGAR.util.doWhen(
-		"typeof(sqs_objects) != 'undefined' && typeof(sqs_objects['{$form_name}_{$fields.assigned_user_name.name}']) != 'undefined'",
-		enableQS
-);
-</script>
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
 
-<!-- [/hide] -->
+
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
+<div class="clear"></div>
 <div class="clear"></div>
 </div>                    </div>
 </div>
@@ -660,14 +418,14 @@ SUGAR.util.doWhen(
 
 
 <div class="panel panel-default">
-<div class="panel-heading ">
-<a class="" role="button" data-toggle="collapse-edit" aria-expanded="false">
+<div class="panel-heading panel-heading-collapse">
+<a class="collapsed" role="button" data-toggle="collapse-edit" aria-expanded="false">
 <div class="col-xs-10 col-sm-11 col-md-11">
 {sugar_translate label='LBL_PANEL_ADVANCED' module='Contacts'}
 </div>
 </a>
 </div>
-<div class="panel-body panel-collapse collapse in panelContainer" id="detailpanel_0" data-id="LBL_PANEL_ADVANCED">
+<div class="panel-body panel-collapse collapse panelContainer" id="detailpanel_0" data-id="LBL_PANEL_ADVANCED">
 <div class="tab-content">
 <!-- tab_panel_content.tpl -->
 <div class="row edit-view-row">
@@ -707,56 +465,10 @@ title=''
 
 
 
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="report_to_name">
+<div class="col-xs-12 col-sm-12 edit-view-row-item" data-field="campaign_name">
 
 
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_REPORTS_TO">
-
-{minify}
-{capture name="label" assign="label"}{sugar_translate label='LBL_REPORTS_TO' module='Contacts'}{/capture}
-{$label|strip_semicolon}:
-
-{/minify}
-</div>
-
-<div class="col-xs-12 col-sm-8 edit-view-field " type="relate" field="report_to_name"  >
-{counter name="panelFieldCount" print=false}
-
-<input type="text" name="{$fields.report_to_name.name}" class="sqsEnabled" tabindex="0" id="{$fields.report_to_name.name}" size="" value="{$fields.report_to_name.value}" title='' autocomplete="off"  	 >
-<input type="hidden" name="{$fields.report_to_name.id_name}" 
-id="{$fields.report_to_name.id_name}" 
-value="{$fields.reports_to_id.value}">
-<span class="id-ff multiple">
-<button type="button" name="btn_{$fields.report_to_name.name}" id="btn_{$fields.report_to_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_SELECT_CONTACTS_TITLE"}" class="button firstChild" value="{sugar_translate label="LBL_ACCESSKEY_SELECT_CONTACTS_LABEL"}"
-onclick='open_popup(
-"{$fields.report_to_name.module}", 
-600, 
-400, 
-"", 
-true, 
-false, 
-{literal}{"call_back_function":"set_return","form_name":"EditView","field_to_name_array":{"id":"reports_to_id","last_name":"report_to_name"}}{/literal}, 
-"single", 
-true
-);' ><span class="suitepicon suitepicon-action-select"></span></button><button type="button" name="btn_clr_{$fields.report_to_name.name}" id="btn_clr_{$fields.report_to_name.name}" tabindex="0" title="{sugar_translate label="LBL_ACCESSKEY_CLEAR_CONTACTS_TITLE"}"  class="button lastChild"
-onclick="SUGAR.clearRelateField(this.form, '{$fields.report_to_name.name}', '{$fields.report_to_name.id_name}');"  value="{sugar_translate label="LBL_ACCESSKEY_CLEAR_CONTACTS_LABEL"}" ><span class="suitepicon suitepicon-action-clear"></span></button>
-</span>
-<script type="text/javascript">
-SUGAR.util.doWhen(
-		"typeof(sqs_objects) != 'undefined' && typeof(sqs_objects['{$form_name}_{$fields.report_to_name.name}']) != 'undefined'",
-		enableQS
-);
-</script>
-</div>
-
-<!-- [/hide] -->
-</div>
-
-
-<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="campaign_name">
-
-
-<div class="col-xs-12 col-sm-4 label" data-label="LBL_CAMPAIGN">
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_CAMPAIGN">
 
 {minify}
 {capture name="label" assign="label"}{sugar_translate label='LBL_CAMPAIGN' module='Contacts'}{/capture}
@@ -765,7 +477,7 @@ SUGAR.util.doWhen(
 {/minify}
 </div>
 
-<div class="col-xs-12 col-sm-8 edit-view-field " type="relate" field="campaign_name"  >
+<div class="col-xs-12 col-sm-8 edit-view-field " type="relate" field="campaign_name" colspan='3' >
 {counter name="panelFieldCount" print=false}
 
 <input type="text" name="{$fields.campaign_name.name}" class="sqsEnabled" tabindex="0" id="{$fields.campaign_name.name}" size="" value="{$fields.campaign_name.value}" title='' autocomplete="off"  	 >
@@ -796,6 +508,10 @@ SUGAR.util.doWhen(
 </div>
 
 <!-- [/hide] -->
+</div>
+
+
+<div class="col-xs-12 col-sm-6 edit-view-row-item" data-field="">
 </div>
 <div class="clear"></div>
 <div class="clear"></div>
@@ -972,13 +688,12 @@ addToValidate('EditView', 'joomla_account_id', 'varchar', false,'{/literal}{suga
 addToValidate('EditView', 'portal_account_disabled', 'bool', false,'{/literal}{sugar_translate label='LBL_PORTAL_ACCOUNT_DISABLED' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'joomla_account_access', 'varchar', false,'{/literal}{sugar_translate label='LBL_JOOMLA_ACCOUNT_ACCESS' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'portal_user_type', 'enum', false,'{/literal}{sugar_translate label='LBL_PORTAL_USER_TYPE' module='Contacts' for_js=true}{literal}' );
+addToValidate('EditView', 'dob_c', 'date', true,'{/literal}{sugar_translate label='LBL_DOB' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'jjwg_maps_address_c', 'varchar', false,'{/literal}{sugar_translate label='LBL_JJWG_MAPS_ADDRESS' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'jjwg_maps_geocode_status_c', 'varchar', false,'{/literal}{sugar_translate label='LBL_JJWG_MAPS_GEOCODE_STATUS' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'jjwg_maps_lat_c', 'float', false,'{/literal}{sugar_translate label='LBL_JJWG_MAPS_LAT' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'jjwg_maps_lng_c', 'float', false,'{/literal}{sugar_translate label='LBL_JJWG_MAPS_LNG' module='Contacts' for_js=true}{literal}' );
 addToValidate('EditView', 'nhi_c', 'varchar', true,'{/literal}{sugar_translate label='LBL_NHI' module='Contacts' for_js=true}{literal}' );
 addToValidateBinaryDependency('EditView', 'assigned_user_name', 'alpha', false,'{/literal}{sugar_translate label='ERR_SQS_NO_MATCH_FIELD' module='Contacts' for_js=true}{literal}: {/literal}{sugar_translate label='LBL_ASSIGNED_TO' module='Contacts' for_js=true}{literal}', 'assigned_user_id' );
-addToValidateBinaryDependency('EditView', 'account_name', 'alpha', false,'{/literal}{sugar_translate label='ERR_SQS_NO_MATCH_FIELD' module='Contacts' for_js=true}{literal}: {/literal}{sugar_translate label='LBL_ACCOUNT_NAME' module='Contacts' for_js=true}{literal}', 'account_id' );
-addToValidateBinaryDependency('EditView', 'report_to_name', 'alpha', false,'{/literal}{sugar_translate label='ERR_SQS_NO_MATCH_FIELD' module='Contacts' for_js=true}{literal}: {/literal}{sugar_translate label='LBL_REPORTS_TO' module='Contacts' for_js=true}{literal}', 'reports_to_id' );
 addToValidateBinaryDependency('EditView', 'campaign_name', 'alpha', false,'{/literal}{sugar_translate label='ERR_SQS_NO_MATCH_FIELD' module='Contacts' for_js=true}{literal}: {/literal}{sugar_translate label='LBL_CAMPAIGN' module='Contacts' for_js=true}{literal}', 'campaign_id' );
-</script><script language="javascript">if(typeof sqs_objects == 'undefined'){var sqs_objects = new Array;}sqs_objects['EditView_account_name']={"form":"EditView","method":"query","modules":["Accounts"],"group":"or","field_list":["name","id","billing_address_street","billing_address_city","billing_address_state","billing_address_postalcode","billing_address_country","phone_office"],"populate_list":["EditView_account_name","account_id","primary_address_street","primary_address_city","primary_address_state","primary_address_postalcode","primary_address_country","phone_work"],"conditions":[{"name":"name","op":"like_custom","end":"%","value":""}],"required_list":["account_id"],"order":"name","limit":"30","no_match_text":"No Match"};sqs_objects['EditView_assigned_user_name']={"form":"EditView","method":"get_user_array","field_list":["user_name","id"],"populate_list":["assigned_user_name","assigned_user_id"],"required_list":["assigned_user_id"],"conditions":[{"name":"user_name","op":"like_custom","end":"%","value":""}],"limit":"30","no_match_text":"No Match"};sqs_objects['EditView_report_to_name']={"form":"EditView","method":"get_contact_array","modules":["Contacts"],"field_list":["salutation","first_name","last_name","id"],"populate_list":["report_to_name","reports_to_id","reports_to_id","reports_to_id"],"required_list":["reports_to_id"],"group":"or","conditions":[{"name":"first_name","op":"like_custom","end":"%","value":""},{"name":"last_name","op":"like_custom","end":"%","value":""}],"order":"last_name","limit":"30","no_match_text":"No Match"};sqs_objects['EditView_campaign_name']={"form":"EditView","method":"query","modules":["Campaigns"],"group":"or","field_list":["name","id"],"populate_list":["campaign_id","campaign_id"],"conditions":[{"name":"name","op":"like_custom","end":"%","value":""}],"required_list":["campaign_id"],"order":"name","limit":"30","no_match_text":"No Match"};</script>{/literal}
+</script><script language="javascript">if(typeof sqs_objects == 'undefined'){var sqs_objects = new Array;}sqs_objects['EditView_campaign_name']={"form":"EditView","method":"query","modules":["Campaigns"],"group":"or","field_list":["name","id"],"populate_list":["campaign_id","campaign_id"],"conditions":[{"name":"name","op":"like_custom","end":"%","value":""}],"required_list":["campaign_id"],"order":"name","limit":"30","no_match_text":"No Match"};</script>{/literal}

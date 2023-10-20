@@ -1,6 +1,8 @@
 <?php
-// created: 2023-04-17 14:57:51
+// created: 2023-07-24 00:27:14
 $mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
@@ -15,16 +17,6 @@ $mod_strings = array (
   'LBL_LIST_NAME' => 'Name',
   'LBL_EDIT_BUTTON' => 'Edit',
   'LBL_REMOVE' => 'Remove',
-  'LBL_ASCENDING' => 'Ascending',
-  'LBL_DESCENDING' => 'Descending',
-  'LBL_OPT_IN' => 'Opt In',
-  'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Pending Confirm opt in, Confirm opt in not sent',
-  'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Pending Confirm opt in, Confirm opt in sent',
-  'LBL_OPT_IN_CONFIRMED' => 'Opted in',
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'LBL_LIST_FORM_TITLE' => 'Event List',
   'LBL_MODULE_NAME' => 'Event',
   'LBL_MODULE_TITLE' => 'Event',
@@ -72,7 +64,7 @@ $mod_strings = array (
   'LBL_ERROR_MSG_4' => ' emails have failed to send. Please check that all the contacts you are inviting have a valid email address. (See suitecrm.log)',
   'LBL_ERROR_MSG_5' => 'Invalid Email Template',
   'LBL_EMAIL_INVITE' => 'Email Invite',
-  'LBL_FP_EVENTS_CONTACTS_FROM_CONTACTS_TITLE' => 'Contacts',
+  'LBL_FP_EVENTS_CONTACTS_FROM_CONTACTS_TITLE' => 'Patient',
   'LBL_FP_EVENT_LOCATIONS_FP_EVENTS_1_FROM_FP_EVENT_LOCATIONS_TITLE' => 'Locations',
   'LBL_FP_EVENTS_LEADS_1_FROM_LEADS_TITLE' => 'Leads',
   'LBL_FP_EVENTS_PROSPECTS_1_FROM_PROSPECTS_TITLE' => 'Targets',

@@ -1,5 +1,5 @@
 <?php
-// created: 2023-05-01 23:41:59
+// created: 2023-07-24 00:27:07
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -34,7 +34,8 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_NEW_FORM_TITLE' => 'New Case Updates',
   'LBL_CASE_NAME' => 'Case',
-  'LBL_CONTACT_NAME' => 'Contact',
+  'LBL_CONTACT_NAME' => 'Patient',
   'LBL_INTERNAL' => 'Internal Update',
   'LBL_AOP_CASE_ATTACHMENTS' => 'Attachments: ',
+  'LBL_CONTACT' => 'Patient',
 );

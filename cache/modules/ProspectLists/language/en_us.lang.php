@@ -1,5 +1,5 @@
 <?php
-// created: 2023-04-17 14:57:50
+// created: 2023-07-24 00:31:05
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
   'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
@@ -33,7 +33,7 @@ $mod_strings = array (
   'LBL_CREATED_BY' => 'Created by',
   'LNK_NEW_PROSPECT' => 'Create Target',
   'LNK_PROSPECT_LIST' => 'Targets',
-  'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
+  'LBL_CONTACTS_SUBPANEL_TITLE' => 'Patient',
   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
   'LBL_PROSPECTS_SUBPANEL_TITLE' => 'Targets',
   'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
@@ -48,4 +48,5 @@ $mod_strings = array (
   'LBL_DOMAIN' => 'No emails to Domain',
   'LBL_LIST_PROSPECTLIST_NAME' => 'Name',
   'LBL_EMAIL_MARKETING' => 'Email Marketing',
+  'LBL_CONTACTS' => 'Patient',
 );

@@ -1,5 +1,5 @@
 <?php
-// created: 2023-05-04 06:16:03
+// created: 2023-07-24 00:27:05
 $mod_strings = array (
   'LBL_MODULE_NAME' => 'Employees',
   'LBL_MODULE_TITLE' => 'Employees: Home',
@@ -98,7 +98,7 @@ $mod_strings = array (
   'LBL_DELETED' => 'Deleted',
   'LBL_BUTTON_SELECT' => 'Select',
   'LBL_BUTTON_CLEAR' => 'Clear',
-  'LBL_CONTACTS_SYNC' => 'Contact Sync',
+  'LBL_CONTACTS_SYNC' => 'Patient Sync',
   'LBL_OAUTH_TOKENS' => 'OAuth Tokens',
   'LBL_PROJECT_USERS_1_FROM_PROJECT_TITLE' => 'Project Users from Project Title',
   'LBL_PROJECT_CONTACTS_1_FROM_CONTACTS_TITLE' => 'Project Contacts from Contacts Title',

@@ -1,30 +1,6 @@
 <?php
-// created: 2023-04-17 14:57:57
+// created: 2023-07-24 00:27:15
 $mod_strings = array (
-  'LBL_ID' => 'ID',
-  'LBL_DATE_ENTERED' => 'Date Created',
-  'LBL_DATE_MODIFIED' => 'Date Modified',
-  'LBL_MODIFIED' => 'Modified By',
-  'LBL_MODIFIED_NAME' => 'Modified By Name',
-  'LBL_CREATED' => 'Created By',
-  'LBL_DESCRIPTION' => 'Description',
-  'LBL_DELETED' => 'Deleted',
-  'LBL_NAME' => 'Name',
-  'LBL_CREATED_USER' => 'Created by User',
-  'LBL_MODIFIED_USER' => 'Modified by User',
-  'LBL_LIST_NAME' => 'Name',
-  'LBL_EDIT_BUTTON' => 'Edit',
-  'LBL_REMOVE' => 'Remove',
-  'LBL_ASCENDING' => 'Ascending',
-  'LBL_DESCENDING' => 'Descending',
-  'LBL_OPT_IN' => 'Opt In',
-  'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Pending Confirm opt in, Confirm opt in not sent',
-  'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Pending Confirm opt in, Confirm opt in sent',
-  'LBL_OPT_IN_CONFIRMED' => 'Opted in',
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'LBL_MAP' => 'Map',
   'LBL_MODULE_NAME' => 'Maps',
   'LBL_MODULE_TITLE' => 'Maps: Home',
@@ -156,4 +132,5 @@ $mod_strings = array (
   'LBL_GET_GOOGLE_API_KEY' => 'Get A Key',
   'LBL_GOOGLE_API_KEY' => 'Google Api Key',
   'LBL_ERROR_NO_GOOGLE_API_KEY' => 'Please set the Google Api Key in the Google Maps Administrative Panel.',
+  'LBL_CONTACTS' => 'Patient',
 );

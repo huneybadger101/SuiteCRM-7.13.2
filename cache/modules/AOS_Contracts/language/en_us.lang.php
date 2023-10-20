@@ -1,6 +1,9 @@
 <?php
-// created: 2023-04-17 14:57:51
+// created: 2023-07-24 00:27:14
 $mod_strings = array (
+  'LBL_ASSIGNED_TO_NAME' => 'Contract Manager',
+  'LBL_CONTRACT_ACCOUNT' => 'Account',
+  'LBL_OPPORTUNITY' => 'Opportunity',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
@@ -13,20 +16,6 @@ $mod_strings = array (
   'LBL_CREATED_USER' => 'Created by User',
   'LBL_MODIFIED_USER' => 'Modified by User',
   'LBL_LIST_NAME' => 'Name',
-  'LBL_EDIT_BUTTON' => 'Edit',
-  'LBL_REMOVE' => 'Remove',
-  'LBL_ASCENDING' => 'Ascending',
-  'LBL_DESCENDING' => 'Descending',
-  'LBL_OPT_IN' => 'Opt In',
-  'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Pending Confirm opt in, Confirm opt in not sent',
-  'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Pending Confirm opt in, Confirm opt in sent',
-  'LBL_OPT_IN_CONFIRMED' => 'Opted in',
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Contract Manager',
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
-  'LBL_CONTRACT_ACCOUNT' => 'Account',
-  'LBL_OPPORTUNITY' => 'Opportunity',
   'LBL_LIST_FORM_TITLE' => 'Contracts List',
   'LBL_MODULE_NAME' => 'Contracts',
   'LBL_MODULE_TITLE' => 'Contracts: Home',
@@ -47,7 +36,7 @@ $mod_strings = array (
   'LBL_COMPANY_SIGNED_DATE' => 'Company Signed Date',
   'LBL_RENEWAL_REMINDER_DATE' => 'Renewal Reminder Date',
   'LBL_CONTRACT_TYPE' => 'Contract Type',
-  'LBL_CONTACT' => 'Contact',
+  'LBL_CONTACT' => 'Patient',
   'LBL_ADD_GROUP' => 'Add Group',
   'LBL_DELETE_GROUP' => 'Delete Group',
   'LBL_GROUP_NAME' => 'Group Name',
@@ -95,4 +84,5 @@ $mod_strings = array (
   'LBL_AOS_LINE_ITEM_GROUPS' => 'Line Item Groups',
   'LBL_AOS_PRODUCT_QUOTES' => 'Product Quotes',
   'LBL_AOS_QUOTES_AOS_CONTRACTS' => 'Quotes: Contracts',
+  'LBL_CONTACTS' => 'Patient',
 );

@@ -1,5 +1,5 @@
 <?php
-// created: 2023-04-17 14:57:50
+// created: 2023-07-24 00:27:02
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
   'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
@@ -9,8 +9,8 @@ $mod_strings = array (
   'LBL_ACCOUNT_ID' => 'Account ID:',
   'LBL_CASE_ID' => 'Case ID:',
   'LBL_CLOSE' => 'Close:',
-  'LBL_CONTACT_ID' => 'Contact ID:',
-  'LBL_CONTACT_NAME' => 'Contact:',
+  'LBL_CONTACT_ID' => 'Patient ID:',
+  'LBL_CONTACT_NAME' => 'Patient:',
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Notes',
   'LBL_DESCRIPTION' => 'Note',
   'LBL_EMAIL_ADDRESS' => 'Email Address:',
@@ -19,14 +19,14 @@ $mod_strings = array (
   'LBL_FILE_URL' => 'File URL',
   'LBL_FILENAME' => 'Attachment:',
   'LBL_LEAD_ID' => 'Lead ID:',
-  'LBL_LIST_CONTACT_NAME' => 'Contact',
+  'LBL_LIST_CONTACT_NAME' => 'Patient',
   'LBL_LIST_DATE_MODIFIED' => 'Last Modified',
   'LBL_LIST_FILENAME' => 'Attachment',
   'LBL_LIST_FORM_TITLE' => 'Note List',
   'LBL_LIST_RELATED_TO' => 'Related To',
   'LBL_LIST_SUBJECT' => 'Subject',
   'LBL_LIST_STATUS' => 'Status',
-  'LBL_LIST_CONTACT' => 'Contact',
+  'LBL_LIST_CONTACT' => 'Patient',
   'LBL_MODULE_NAME' => 'Notes',
   'LBL_MODULE_TITLE' => 'Notes: Home',
   'LBL_NEW_FORM_TITLE' => 'Create Note or Add Attachment',

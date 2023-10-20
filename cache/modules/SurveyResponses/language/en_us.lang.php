@@ -1,5 +1,5 @@
 <?php
-// created: 2023-04-17 14:57:52
+// created: 2023-07-24 00:27:11
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -42,7 +42,7 @@ $mod_strings = array (
   'LBL_HAPPINESS' => 'Happiness',
   'LBL_EMAIL_RESPONSE_SENT' => 'Email Response Sent',
   'LBL_SURVEYRESPONSES_SURVEYQUESTIONRESPONSES_FROM_SURVEYQUESTIONRESPONSES_TITLE' => 'Survey Question Responses',
-  'LBL_SURVEYRESPONSES_CONTACTS_FROM_CONTACTS_TITLE' => 'Contact',
+  'LBL_SURVEYRESPONSES_CONTACTS_FROM_CONTACTS_TITLE' => 'Patient',
   'LBL_SURVEYRESPONSES_ACCOUNTS_FROM_ACCOUNTS_TITLE' => 'Account',
   'LBL_SURVEYS_SURVEYRESPONSES_FROM_SURVEYS_TITLE' => 'Survey',
   'LBL_QUESTION_RESPONSES_DISPLAY' => 'Question Responses',
